@@ -1,0 +1,6 @@
+GitAnnexDistribution {distributionUrl = "https://downloads.kitenet.net/git-annex/windows/current/git-annex-installer.exe", distributionKey = Key {keyName = "8e6a76f28540272ea53492294f49656863039e3059f3a0ae890115e75e4a8298.exe", keyVariety = SHA2Key (HashSize 256) (HasExt True), keySize = Just 21551613, keyMtime = Nothing, keyChunkSize = Nothing, keyChunkNum = Nothing}, distributionVersion = "6.20170815", distributionReleasedate = 2017-10-03 17:25:40.974169651 UTC, distributionUrgentUpgrade = Nothing}
+https://downloads.kitenet.net/git-annex/windows/current/git-annex-installer.exe
+SHA256E-s21551613--8e6a76f28540272ea53492294f49656863039e3059f3a0ae890115e75e4a8298.exe
+6.20170815
+2017-10-03 17:25:40.974169651 UTC
+
